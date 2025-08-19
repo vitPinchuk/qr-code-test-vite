@@ -1,0 +1,20 @@
+.qrWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.qrInput {
+  border-radius: 8px;
+  margin: 8px;
+  padding: 4px;
+  height: 20px;
+  border: 1px solid #c1c1c1;
+}
+
+.qrButton {
+  border-radius: 8px;
+  padding: 2px 8px;
+  height: 32px;
+  border: 1px solid #c1c1c1;
+  background: rgb(172, 209, 170);
+}
